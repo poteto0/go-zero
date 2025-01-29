@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/poteto0/go-zero/bandit_problem/agent"
-	"github.com/poteto0/go-zero/bandit_problem/bandit"
+	"github.com/poteto0/go-zero/banditProblem/agent"
+	"github.com/poteto0/go-zero/banditProblem/bandit"
 	"github.com/poteto0/go-zero/gonp"
 	"gonum.org/v1/plot"
 	"gonum.org/v1/plot/plotter"
